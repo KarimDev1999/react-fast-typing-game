@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-typing/static/css/main.68984ae9.chunk.css",
-    "main.js": "/react-typing/static/js/main.f898546f.chunk.js",
-    "main.js.map": "/react-typing/static/js/main.f898546f.chunk.js.map",
-    "runtime-main.js": "/react-typing/static/js/runtime-main.647bf93e.js",
-    "runtime-main.js.map": "/react-typing/static/js/runtime-main.647bf93e.js.map",
-    "static/js/2.ad70da6f.chunk.js": "/react-typing/static/js/2.ad70da6f.chunk.js",
-    "static/js/2.ad70da6f.chunk.js.map": "/react-typing/static/js/2.ad70da6f.chunk.js.map",
-    "static/js/3.2ef65f7a.chunk.js": "/react-typing/static/js/3.2ef65f7a.chunk.js",
-    "static/js/3.2ef65f7a.chunk.js.map": "/react-typing/static/js/3.2ef65f7a.chunk.js.map",
-    "index.html": "/react-typing/index.html",
-    "static/css/main.68984ae9.chunk.css.map": "/react-typing/static/css/main.68984ae9.chunk.css.map",
-    "static/js/2.ad70da6f.chunk.js.LICENSE.txt": "/react-typing/static/js/2.ad70da6f.chunk.js.LICENSE.txt"
+    "main.css": "/react-fast-typing-game/static/css/main.68984ae9.chunk.css",
+    "main.js": "/react-fast-typing-game/static/js/main.f898546f.chunk.js",
+    "main.js.map": "/react-fast-typing-game/static/js/main.f898546f.chunk.js.map",
+    "runtime-main.js": "/react-fast-typing-game/static/js/runtime-main.cfc2d708.js",
+    "runtime-main.js.map": "/react-fast-typing-game/static/js/runtime-main.cfc2d708.js.map",
+    "static/js/2.ad70da6f.chunk.js": "/react-fast-typing-game/static/js/2.ad70da6f.chunk.js",
+    "static/js/2.ad70da6f.chunk.js.map": "/react-fast-typing-game/static/js/2.ad70da6f.chunk.js.map",
+    "static/js/3.2ef65f7a.chunk.js": "/react-fast-typing-game/static/js/3.2ef65f7a.chunk.js",
+    "static/js/3.2ef65f7a.chunk.js.map": "/react-fast-typing-game/static/js/3.2ef65f7a.chunk.js.map",
+    "index.html": "/react-fast-typing-game/index.html",
+    "static/css/main.68984ae9.chunk.css.map": "/react-fast-typing-game/static/css/main.68984ae9.chunk.css.map",
+    "static/js/2.ad70da6f.chunk.js.LICENSE.txt": "/react-fast-typing-game/static/js/2.ad70da6f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.647bf93e.js",
+    "static/js/runtime-main.cfc2d708.js",
     "static/js/2.ad70da6f.chunk.js",
     "static/css/main.68984ae9.chunk.css",
     "static/js/main.f898546f.chunk.js"
