@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-fast-typing-game/static/css/main.68984ae9.chunk.css",
-    "main.js": "/react-fast-typing-game/static/js/main.f898546f.chunk.js",
-    "main.js.map": "/react-fast-typing-game/static/js/main.f898546f.chunk.js.map",
+    "main.js": "/react-fast-typing-game/static/js/main.18085114.chunk.js",
+    "main.js.map": "/react-fast-typing-game/static/js/main.18085114.chunk.js.map",
     "runtime-main.js": "/react-fast-typing-game/static/js/runtime-main.cfc2d708.js",
     "runtime-main.js.map": "/react-fast-typing-game/static/js/runtime-main.cfc2d708.js.map",
     "static/js/2.ad70da6f.chunk.js": "/react-fast-typing-game/static/js/2.ad70da6f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cfc2d708.js",
     "static/js/2.ad70da6f.chunk.js",
     "static/css/main.68984ae9.chunk.css",
-    "static/js/main.f898546f.chunk.js"
+    "static/js/main.18085114.chunk.js"
   ]
 }
